@@ -25,3 +25,10 @@ git diff: Muestra las los cambios efectuados en el archivo modificado;
 git app: nos permite además, añadir los cambios a la rama si estamos convencidos de guardar los cambios efectuados en los diferentes archivos;
 
 git commit -m "file" : para evitar abrir la cansola del editor.
+
+git branch: Nos permite ver, si existen claro, las diferentes ramos de nuestro proyecto, también conocidas como versiones;
+
+git branch "nameBranch": Nos permite crear una nueva versión de nuestro proyecto;
+
+git checkout "nameBranch": Da lugar a movernos entre las diferentes versiones; 
+
