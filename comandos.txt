@@ -7,7 +7,7 @@ Ya nos encotramos en la rama Master;
 
 git status: Para ver los archivos que no están en el entorno de trabajo;
 
-git add : para agregar al seguimiento, staging area, 
+git add : para agregar al seguimiento, staging area, y guardar las modificaciones; 
 
 git config --global user.email: para saber quien está efectuando los cambios;
 git config --global user.name "nombreuser"
