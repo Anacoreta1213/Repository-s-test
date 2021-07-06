@@ -1,0 +1,13 @@
+comando pwd para abrir la ubicación de nuestro archivo;
+
+ls: nos da los archivos dentro de las carpetas;
+
+git init: Para iniciar repositorio;
+Ya nos encotramos en la rama Master;
+
+git status: Para ver los archivos que no están en el entorno de trabajo;
+
+git add : para agregar al seguimiento, staging area, 
+
+git config --global user.email: para saber quien está efectuando los cambios;
+git config --global user.name "nombreuser"
