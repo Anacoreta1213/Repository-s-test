@@ -32,3 +32,8 @@ git branch "nameBranch": Nos permite crear una nueva versión de nuestro proyect
 
 git checkout "nameBranch": Da lugar a movernos entre las diferentes versiones; 
 
+git remote add origin "Url de almacenamiento": Nos permite ubicar y subir nuestro proyecto a github desde la consola de git bash;
+
+git push -u origin main: Es el comando utilizado para subir nuestro proyecto a github definitivamente; 
+
+git clone "URL de orgien": Nos ubicamos en una carpeta y luego le damos enteren la consola git bash; 
