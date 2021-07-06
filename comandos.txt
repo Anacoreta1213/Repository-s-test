@@ -11,3 +11,11 @@ git add : para agregar al seguimiento, staging area,
 
 git config --global user.email: para saber quien está efectuando los cambios;
 git config --global user.name "nombreuser"
+
+Hijueputa
+
+git log : para ver nuestra para ver las fotos(commit hechos), para ver cada versión;
+
+git commit: seguir la versión de nuestro programa, toma una foto que puede ser regresiva si así lo queremos;
+
+git diff: Muestra las los cambios efectuados en el archivo modificado;
