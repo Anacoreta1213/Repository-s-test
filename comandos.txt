@@ -19,3 +19,9 @@ git log : para ver nuestra para ver las fotos(commit hechos), para ver cada vers
 git commit: seguir la versión de nuestro programa, toma una foto que puede ser regresiva si así lo queremos;
 
 git diff: Muestra las los cambios efectuados en el archivo modificado;
+
+.gitignore:Añadimos los archivos que queremos ignorar;
+
+git app: nos permite además, añadir los cambios a la rama si estamos convencidos de guardar los cambios efectuados en los diferentes archivos;
+
+git commit -m "file" : para evitar abrir la cansola del editor.
